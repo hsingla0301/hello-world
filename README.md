@@ -1,2 +1,6 @@
 # hello-world
-first one
+
+
+hi developers,
+
+I had started python just now .
